@@ -1,0 +1,1 @@
+All included sample records are **synthetically generated for portfolio demonstration**. They are not real company observations. All reported metrics must be computed from the sample and should not be presented as business impact.
