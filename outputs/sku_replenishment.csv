@@ -1,0 +1,13 @@
+sku,supplier,avg_daily_demand,lead_time_days,on_hand,reorder_point,reorder_flag
+SKU001,Supplier 2,50.26,9,452,566,True
+SKU002,Supplier 3,25.11,8,224,252,True
+SKU003,Supplier 4,30.8,12,264,463,True
+SKU004,Supplier 1,28.57,13,259,465,True
+SKU005,Supplier 2,41.07,3,363,154,False
+SKU006,Supplier 3,47.57,10,426,595,True
+SKU007,Supplier 4,28.33,11,252,390,True
+SKU008,Supplier 1,13.91,10,120,174,True
+SKU009,Supplier 2,16.33,4,149,82,False
+SKU010,Supplier 3,43.15,8,401,432,True
+SKU011,Supplier 4,52.91,10,500,662,True
+SKU012,Supplier 1,28.0,13,258,455,True
